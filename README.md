@@ -1,5 +1,5 @@
-黄 斌    {#name}
-=====
+黄 斌   
+======
 
 - 联系电话: [188-****-0703](tel://188-****-0703)
 - 电子邮箱: <hbiner1114@gmail.com>
@@ -31,41 +31,42 @@ Papers & Research
 - A Reinforcement Learning Approach based on Gradient Tree Boosting Model to Virtual Machines Auto-configuration （The computer journal,SCI,IF=0.787，第二作者）
 - 云计算中虚拟机资源与应用系统参数的协同自适应配置研究，国家自然科学基金项目，NO.61272382
 
+
 Skills & Expertise
 ------------------
 这些是我平时用过/熟悉的编程语言、框架和工具。
 
-### Programming Languages
+#### Programming Languages
 
 - [C/C++]()
-- [Java](http://developer.mozilla.org/en/JavaScript)^†^
+- [Java](http://developer.mozilla.org/en/JavaScript)
 - [SQL]()
 - [HTML]()
 
 
-### Frameworks & APIs
+#### Frameworks & APIs
 
 - [MapReduce](http://zh.wikipedia.org/wiki/MapReduce)
 - [Mahout]()
 - [mlpack](http://www.mlpack.org/)
 
 
-### Software & Tools
+#### Software & Tools
 
-- [Git](http://git-scm.com)^†^
+- [Git](http://git-scm.com)
 - [Visual Studio]()
-- [Eclipse](http://www.eclipse.org/)^†^
+- [Eclipse](http://www.eclipse.org/)
 - [Ubuntu Linux](http://ubuntu.com)
 - [Sublime Text](http://www.sublimetext.com)
 - [Excel](http://www.microsoftstore.com.cn/%E7%B1%BB%E5%88%AB/Office/c/office)
 - [MySQL](http://mysql.com)
 - [SQL Server](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
 
+####Skills
 
-### 
 - 熟悉Q-Learning、GBDT、RF等机器学习模型，了解CF、KNN、K-Means、LR等算法；
 - 了解Boosting和Bagging等集成学习方法，以及简单的模型融合方法；
-- 会用C/C++/Java/SQL/Python/Excel等进行数据分析，有过完整的建模实践经验；
+- 有过完整的建模实践经验；
 - 能简单地运用MapReduce的程序架构；
 - 通过CET6，具有良好的听说读写能力，阅读技术类文档资料能力较强。 
 
@@ -73,7 +74,8 @@ Skills & Expertise
 Projects
 ---------
 
-- 2015	阿里巴巴大数据竞赛	Java,HiveSQL,PAI,C++
+### 2015	**阿里巴巴大数据竞赛**	*Java,HiveSQL,PAI,C++*
+
 此竞赛以阿里移动电商平台的58亿条真实用户-商品行为记录为基础，通过大数据和算法构建面向移动电子商务
 的商品推荐模型。通过创建一个Maven项目远程操作阿里云御膳房平台上的数据，使用HiveSQL进行数据分析及
 数据集的切分，采用MapReduce和HiveSQL程序来提取和处理特征，使用PAI脚本实现整个推荐模型的自动化过
@@ -82,7 +84,8 @@ Projects
 理，分别训练了若干子模型获取到各模型的评分值，然后用Rank指数排名进行融合，最后取评分值高的User-Item
 对做top-N推荐。此竞赛获得了F1=8.21%的评分值。
 
-- 2014	级联过滤数据集的多模型融合的推荐	C++,mlpack, SQL,Matlab
+### 2014	**级联过滤数据集的多模型融合的推荐**	*C++,mlpack, SQL,Matlab*
+
 此项目基于大量的用户-品牌记录，通过分析用户对品牌的行为规律，构建用户的品牌偏好模型，并预测用户在
 未来一个月时间品牌下商品的购买情况。此项目使用多级的Logistic Regression过滤掉一些无法甄别的离群样
 本和弱贡献率样本，然后采用基于Boosting的GBDT算法训练若干的评分预测模型算法，运用LR算法进行线性融
@@ -93,5 +96,5 @@ Projects
 Interests
 ---------
 
-喜欢尝试新鲜的事物，爱折腾，爱观察，业余时间喜欢桌游、动漫、游泳、旅游等。
+喜欢尝试新鲜的事物，爱折腾，爱观察，业余时间喜欢收看体育赛事、动漫、旅游等。
 
