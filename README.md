@@ -32,7 +32,17 @@ Papers & Research
 - 云计算中虚拟机资源与应用系统参数的协同自适应配置研究，国家自然科学基金项目，NO.61272382
 
 
-Skills & Expertise
+Skills
+---------
+
+- 熟悉Q-Learning、GBDT、RF等机器学习模型，了解CF、KNN、K-Means、LR等算法；
+- 了解Boosting和Bagging等集成学习方法，以及简单的模型融合方法；
+- 会用C/C++/Java/SQL/Python/Excel等进行数据分析，有过完整的建模实践经验；
+- 能简单地运用MapReduce的程序架构；
+- 通过CET6，具有良好的听说读写能力，阅读技术类文档资料能力较强。
+
+
+Tools
 ------------------
 这些是我平时用过/熟悉的编程语言、框架和工具。
 
@@ -47,7 +57,6 @@ Skills & Expertise
 #### Frameworks & APIs
 
 - [MapReduce](http://zh.wikipedia.org/wiki/MapReduce)
-- [Mahout]()
 - [mlpack](http://www.mlpack.org/)
 
 
@@ -60,21 +69,13 @@ Skills & Expertise
 - [Sublime Text](http://www.sublimetext.com)
 - [Excel](http://www.microsoftstore.com.cn/%E7%B1%BB%E5%88%AB/Office/c/office)
 - [MySQL](http://mysql.com)
-- [SQL Server](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
-
-####Skills
-
-- 熟悉Q-Learning、GBDT、RF等机器学习模型，了解CF、KNN、K-Means、LR等算法；
-- 了解Boosting和Bagging等集成学习方法，以及简单的模型融合方法；
-- 有过完整的建模实践经验；
-- 能简单地运用MapReduce的程序架构；
-- 通过CET6，具有良好的听说读写能力，阅读技术类文档资料能力较强。 
+- [SQL Server](http://www.microsoft.com/en-us/server-cloud/products/sql-server/) 
 
 
-Projects
----------
+Projects & Recruitment
+-------------------------
 
-### 2015	**阿里巴巴大数据竞赛**	*Java,HiveSQL,PAI,C++*
+#### 2015	**阿里巴巴大数据竞赛**	*Java,HiveSQL,PAI,C++*
 
 此竞赛以阿里移动电商平台的58亿条真实用户-商品行为记录为基础，通过大数据和算法构建面向移动电子商务
 的商品推荐模型。通过创建一个Maven项目远程操作阿里云御膳房平台上的数据，使用HiveSQL进行数据分析及
@@ -84,7 +85,7 @@ Projects
 理，分别训练了若干子模型获取到各模型的评分值，然后用Rank指数排名进行融合，最后取评分值高的User-Item
 对做top-N推荐。此竞赛获得了F1=8.21%的评分值。
 
-### 2014	**级联过滤数据集的多模型融合的推荐**	*C++,mlpack, SQL,Matlab*
+#### 2014	**级联过滤数据集的多模型融合的推荐**	*C++,mlpack,SQL,Matlab*
 
 此项目基于大量的用户-品牌记录，通过分析用户对品牌的行为规律，构建用户的品牌偏好模型，并预测用户在
 未来一个月时间品牌下商品的购买情况。此项目使用多级的Logistic Regression过滤掉一些无法甄别的离群样
@@ -92,9 +93,15 @@ Projects
 合，得到评分值较高的用户-品牌对。此项目很好地缓解了主流推荐算法无法甄别的离群样本、弱贡献率样本和
 泛化能力较弱等问题。
 
+#### 2012.6-2012.9	广东群英网络有限公司	C++软件开发与维护
+#### 2013.1-2013.4	中国平安银行深圳分行	主要负责小额贷款相关业务
+
 
 Interests
 ---------
 
-喜欢尝试新鲜的事物，爱折腾，爱观察，业余时间喜欢收看体育赛事、动漫、旅游等。
+- 崇尚极客文化与开源精神；
+- 使用的工具有Shell,Git,Stackoverflow等；
+- 获得过3次一等奖学金、2次二等奖学金、校级三好学生及院系优秀团员标兵等;
+- 喜欢尝试新鲜的事物，爱折腾，爱观察，业余时间喜欢收看体育赛事、动漫、旅游等。
 
