@@ -72,7 +72,7 @@ Tools
 - [SQL Server](http://www.microsoft.com/en-us/server-cloud/products/sql-server/) 
 
 
-Projects & Recruitment
+Projects & Intern
 -------------------------
 
 #### 2015	**阿里巴巴大数据竞赛**	*Java,HiveSQL,PAI,C++*
@@ -97,11 +97,10 @@ Projects & Recruitment
 #### 2013.1-2013.4	中国平安银行深圳分行	主要负责小额贷款相关业务
 
 
-Interests
+Others
 ---------
 
 - 崇尚极客文化与开源精神；
 - 使用的工具有Shell,Git,Stackoverflow等；
-- 获得过3次一等奖学金、2次二等奖学金、校级三好学生及院系优秀团员标兵等;
 - 喜欢尝试新鲜的事物，爱折腾，爱观察，业余时间喜欢收看体育赛事、动漫、旅游等。
 
