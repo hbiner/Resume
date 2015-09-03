@@ -3,7 +3,6 @@
 
 - 联系电话: [188-****-0703](tel://188-****-0703)
 - 电子邮箱: <hbiner1114@gmail.com>
-- 个人博客: [hbiner](http://www.cnblogs.com/hbiner/)
 - Github : [hbiner](https://github.com/hbiner/)
 - 毕业学校/年份：广东工业大学/2016
 - GPA ：3.67/4
