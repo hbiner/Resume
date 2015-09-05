@@ -22,12 +22,13 @@ Honors and Awards
 - 2014 “云上贵州”智能交通大数据竞赛，最终排名/参赛队数：55/3743
 - 2014 阿里巴巴大数据竞赛 最终排名/参赛队数：73/7276 
 - 2011 全国大学生数学建模竞赛广东赛区一等奖（国赛）
+- 2011-2012 两次荣获国家励志奖学金
 
 
 Papers & Research
 ------------------
 - 《基于级联过滤的多模型融合的推荐方法》（第一作者,小型微型计算机系统）
-- A Reinforcement Learning Approach based on Gradient Tree Boosting Model to Virtual Machines Auto-configuration （The computer journal,SCI,IF=0.787，第二作者）
+- A Reinforcement Learning Approach based on Gradient Tree Boosting Model to Virtual Machines Auto-configuration （The computer journal审稿中）
 - 云计算中虚拟机资源与应用系统参数的协同自适应配置研究，国家自然科学基金项目，NO.61272382
 
 
